@@ -22,7 +22,7 @@ cd client
 npm install
 
 # For backend:
-cd ../server
+cd server
 npm install
 
 # For frontend:
